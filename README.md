@@ -91,7 +91,7 @@ If you’d like to contribute to **GeoUsers**, feel free to fork the repository 
 
 
 ### **Contact**:
-For any questions or feedback, please contact [ishangawande55@gmail.com].
+For any questions or feedback, please contact ishangawande55@gmail.com.
 
 ---
 
